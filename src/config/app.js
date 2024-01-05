@@ -9,7 +9,7 @@ if(is_dev){
 
 export default {
     
-    app_name: "BotFi Wallet",
+    app_name: "MEVBot Wallet",
 
     server_url: "https://api.botfi.app",
     chains_data_url: "https://github.com/ethereum-lists/chains/blob/master/_data/chains",
