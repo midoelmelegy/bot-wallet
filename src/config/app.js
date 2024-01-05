@@ -11,7 +11,7 @@ export default {
     
     app_name: "MEVBot Wallet",
 
-    server_url: "https://api.botfi.app",
+    server_url: "https://bot-wallet.vercel.app/",
     chains_data_url: "https://github.com/ethereum-lists/chains/blob/master/_data/chains",
 
     ///is dev
